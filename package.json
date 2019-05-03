@@ -1,0 +1,12 @@
+{
+  "name": "sorting-module",
+  "version": "1.0.0",
+  "description": "function to sort an array of numbers",
+  "main": "sorting-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sort": "node ./db.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
